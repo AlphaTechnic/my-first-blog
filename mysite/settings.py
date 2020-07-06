@@ -104,6 +104,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
+LOGIN_REDIRECT_URL = '/'
+
 LANGUAGE_CODE = 'ko'
 
 TIME_ZONE = 'Asia/Seoul'
