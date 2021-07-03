@@ -36,7 +36,7 @@
 
 - Install Django
 
-  - pip upgrage
+  - pip upgrade
 
     ```shell
     (myvenv) ~$ python3 -m pip install --upgrade pip
