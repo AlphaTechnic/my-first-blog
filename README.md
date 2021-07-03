@@ -23,15 +23,14 @@
 - Make a virtual environment
 
   ```shell
-  $ mkdir djangogirls
-  $ cd djangogirls
+  $ cd my-first-blog
   $ python3 -m venv myvenv
   ```
-
+  
 - Run virtual environment
 
   ```shell
-  C:\Users\Name\djangogirls> myvenv\Scripts\activate
+  C:\Users\Name\my-first-blog> myvenv\Scripts\activate
   ```
 
 - Install Django
@@ -53,6 +52,6 @@
 ## Usage
 
 ```shell
-(myvenv) ~/djangogirls$ python manage.py runserver
+(myvenv) ~/my-first-blog$ python manage.py runserver
 ```
 
